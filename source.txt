@@ -86,6 +86,6 @@ n=input();
 int ans=fibonacci(n);
 return 0;
 }
-
+int j;
 
 
